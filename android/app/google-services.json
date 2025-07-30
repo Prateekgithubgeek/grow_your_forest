@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166726435093",
+    "project_id": "growyourforest-c64eb",
+    "storage_bucket": "growyourforest-c64eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166726435093:android:afd865b103d1c11efaa91c",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-wQNpmFCxjB81x9iy6YJP7UAwntGBPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
