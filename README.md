@@ -72,6 +72,7 @@ Edit
     "2": { "height": 60, "color": "#379683" }
   }
 }
+
 2. user_garden (per-user)
 Stores planted trees:
 
@@ -90,6 +91,7 @@ Edit
     }
   ]
 }
+
 3. user_daily_progress
 Stores daily task completions:
 
