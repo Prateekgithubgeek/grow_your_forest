@@ -27,7 +27,7 @@ class ForestProvider extends ChangeNotifier {
   }
   git config --global user.email "prateeksohani44@gmail.com"
 
-  git remote add origin https: https://github.com/Prateekgithubgeek/grow_your_forest
+  git remote add origin https: https://github.com/Prateekgithubgeek/grow_your_forest.git
 
   Future<void> completeTask() async {
     _completedTasks++;
