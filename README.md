@@ -104,9 +104,7 @@ Edit
   "tasks_completed": 3,
   "tree_rewarded": true
 }
-📸 Demo Video
-📽️ Watch the app demo here
-https://drive.google.com/file/d/1CxAXpHFec4q3ux76lE2ENcj5th9XX4Ak/view?usp=sharing
+
 
 📦 APK Download
 Download the release build:
