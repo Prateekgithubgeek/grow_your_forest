@@ -71,4 +71,4 @@ Simplified layout – focused on function and demo readability.
 
 🙌 Credits
 Crafted with 💚 by Prateek Sohani
-For the Flutter Developer Internship at HealthTick
+
