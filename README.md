@@ -56,54 +56,6 @@ bash
 Copy
 Edit
 flutter run
-📁 Firebase Schema Overview
-1. species_master (static collection)
-Stores tree species metadata:
-
-json
-Copy
-Edit
-{
-  "species_id": "maple",
-  "growth_stages": 3,
-  "stage_params": {
-    "0": { "height": 20, "color": "#A8E6CF" },
-    "1": { "height": 40, "color": "#56C596" },
-    "2": { "height": 60, "color": "#379683" }
-  }
-}
-
-2. user_garden (per-user)
-Stores planted trees:
-
-json
-Copy
-Edit
-{
-  "user_id": "xyz",
-  "trees": [
-    {
-      "species": "maple",
-      "stage": 2,
-      "x": 120,
-      "y": 300,
-      "planted_on": "2025-07-29"
-    }
-  ]
-}
-
-3. user_daily_progress
-Stores daily task completions:
-
-json
-Copy
-Edit
-{
-  "user_id": "xyz",
-  "date": "2025-07-29",
-  "tasks_completed": 3,
-  "tree_rewarded": true
-}
 
 
 📦 APK Download
